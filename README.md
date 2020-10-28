@@ -8,7 +8,7 @@ Any future contributions by anyone should be accordingly credited, too, probably
 # Notes
 
 - There's a short todo list within the file that should be completed soon if you want to check back for a more functional library
-- Have confirmed with FireFrog (original DBT dev) that the map file format will change in the future - will remain backwards compatible
+- Have confirmed with FireFrog (original DBT dev) that the map file format will change in the future - will remain backwards compatible, no guarantees I guess
 - Will probably be ported to C# in the near future, and Febreeze (twitch.tv/yesitsfebreeze) will likely be porting to JS
 
 # License
